@@ -28,6 +28,7 @@ public class thermos {
 	        System.out.println("Brand: " + brand);
 	        System.out.println("Available Volume: " + availableVolume + " litres");
 	        System.out.println("Liquid: " + liquid);
+	        System.out.println();
 	    }
 	}
 
